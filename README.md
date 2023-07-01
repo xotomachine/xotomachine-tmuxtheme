@@ -20,4 +20,4 @@ Fonts:
   - Noto Sans Mono CJK JP
   - Symbola
 
-![Snap 1](snaps/n01.png)
+![Snap 1](snaps/image.png)
