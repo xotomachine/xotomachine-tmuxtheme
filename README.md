@@ -1,4 +1,4 @@
-# xotomachine-tmuxtheme tmux
+# xotomachine-tmuxtheme
 
 A clean, light Tmux theme that celebrates the lights 
 
