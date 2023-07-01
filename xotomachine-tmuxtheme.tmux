@@ -2,7 +2,7 @@
 # +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # title      Tokyo Night                                              +
 # version    1.0.0                                                    +
-# repository https://github.com/logico-dev/xotomachine-tmuxtheme           +
+# repository https://github.com/xotomachine/xotomachine-tmuxtheme           +
 # author     Lógico                                                   +
 # email      hi@logico.com.ar                                         +
 # +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
