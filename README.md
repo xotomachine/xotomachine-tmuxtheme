@@ -11,13 +11,6 @@ set -g @plugin "xotomachine/xotomachine-tmuxtheme"
 
 ### Snapshots
 
-##### New tokyonight
-
-Terminal: Ala
-Fonts:
-  - SF Mono
-  - MesloLGLDZ Nerd Font Mono
-  - Noto Sans Mono CJK JP
-  - Symbola
+Terminal: Alacritty
 
 ![Snap 1](snaps/image.png)
